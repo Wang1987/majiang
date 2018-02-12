@@ -1,0 +1,18 @@
+{
+  "name": "majiang_sever_os",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "majiang"
+  ],
+  "author": "wangmu",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.0.4"
+  }
+}
